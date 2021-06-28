@@ -9,14 +9,15 @@ Some things I've explored the code of in the past include GTK2, QT, Ruby Shoes, 
 
 Lately, I've been diving deep into `Kubernetes` and I have to say it's one of my favorite tools. I find building scalable infrastructure to be a facinating topic.
 
-My goal is to simplify building applications that can run in Kubernetes. I'm maintaining an organization called [Scalable Delivery](https://github.com/scalabledelivery) that provides MIT licensed templates and tools for general use. It's just a passion project that should eventually make it possible for me to be a lazier application developer. The landing for it is probably [/scalabledelivery/kubernetes](https://github.com/scalabledelivery/kubernetes).
+My goal is to simplify building applications that can run in Kubernetes. I'm maintaining an organization called [Scalable Delivery](https://github.com/scalabledelivery) that provides MIT licensed templates and tools for general use. It's just a passion project that should eventually make it possible for me to be a lazier application developer. The poster-child repo for this project is probably [/scalabledelivery/kubernetes](https://github.com/scalabledelivery/kubernetes).
 
-
-Anyways, this is getting pretty long. Thanks for reading! Pull requests and logged issues are always welcome in my repos.
+Anyways, this is getting pretty long.
+Thanks for reading! Pull requests and logging issues are always welcome in my repos.
 
 If you wish to contact me, log an issue in [/protosam/protosam](https://github.com/protosam/protosam). 
 
-⚡ Fun fact: One of my most popular repositories is [/protosam/go-libnss](https://github.com/protosam/go-libnss) and I have no clue why.
+
+⚡ A Parting Note: One of my most popular repositories is [/protosam/go-libnss](https://github.com/protosam/go-libnss) and I have no clue why.
 
 <!--
 **protosam/protosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
